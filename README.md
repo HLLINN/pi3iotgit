@@ -1,4 +1,4 @@
-Pi3 IoT project by using MySQL & PHP
+#Pi3 IoT project by using MySQL & PHP
 
 
 This is project that uses a DHT11 sensor to track tempature and humidity indoors. And it can store temperature data into a specific database by a interval time. 
