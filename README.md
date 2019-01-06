@@ -1,6 +1,7 @@
 Pi3 IoT project by using MySQL & PHP
 
-This is project that uses a DHT11 sensor to track tempature and humidity indoors. 
+
+This is project that uses a DHT11 sensor to track tempature and humidity indoors. And it can store temperature data into a specific database by a interval time. 
 
 STEPS:
 
@@ -19,7 +20,7 @@ STEPS:
 6. You can have a try and add data to your database:
    Open chrome and key url"X.x.x.x/settemp.php?id=1&temp=22",you would see your database add one record of temperature. Check it out by key url"x.x.x.x/showtemp.php" and press refresh button.
 
-7. Check it out to see if the content of database get refreshed by the interval period via the program of "iot_temp_url_git.py"
+7. Check it out to see if the content of database get refreshed by a interval time via the program of "iot_temp_url_git.py"
 
 REFERENCES:
 
